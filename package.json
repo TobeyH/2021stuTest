@@ -1,0 +1,24 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "20211026網頁練習\r 網頁練習",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobeyH/2021stuTest.git"
+  },
+  "author": "Tobey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TobeyH/2021stuTest/issues"
+  },
+  "homepage": "https://github.com/TobeyH/2021stuTest#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.10.2",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.1.3"
+  }
+}
